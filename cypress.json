@@ -1,1 +1,8 @@
-{}
+{
+    "baseUrl": "https://gradebook.vivifyideas.com/",
+    "env" : {
+        "ETERNAL_USERNAME" : "",
+        "EXTERNAL_PASSWORD" : ""
+    }
+}
+
